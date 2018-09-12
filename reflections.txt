@@ -1,0 +1,22 @@
+diff -u file1 file2
+echo 'alias notepad++="C:\Program Files\Notepad++\notepad++.exe"' >> ~/.bashrc
+#View history
+git log
+q (to stop viewing)
+#Compare versions of a file
+git diff commitID1 commitID2
+#git commits across multiple files
+git log --stat
+#cloning a repository
+git clone
+#Getting colored Output
+git config --global color .ui auto
+#Copying an pasting? lesson 21/5?
+#checkout
+git checkout commitID
+#create a repository
+git init
+#show changes since the last commit
+git status
+#add files to the staging area
+git add
