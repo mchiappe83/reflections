@@ -22,3 +22,7 @@ git status
 git add
 #commit
 git commit -m "message"
+#comparissons
+git diff #compares working dir versus staging area
+git diff --staged #compares staging area versus commit1
+git diff commit1 commit2
