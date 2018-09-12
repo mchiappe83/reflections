@@ -1,0 +1,17 @@
+Main topics on AI with AWS Solutions Architects
+
+* Which algorithms fit well for recommendation engines?
+* Which differences in feature engineering can be indentified between deep learning and traditional ml?
+* Which overfitting techniques can be used in deep learning?
+* How does a docker work over the hoods?
+* Differences between AI logic and deep learning
+* What strategy can be used to detect wrong ads if we have text categories and descriptions?
+* Differences between hard and soft AI
+* Transfer Learning
+* Reinforcement Learning
+* What does AI stand for?
+* Deep Learning versus NN
+* Describe a Deep Learning topology
+* Steps in a ML process from a DS perspective
+* Neural Networks for regression problems
+* How does a perceptron work?
