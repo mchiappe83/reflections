@@ -30,3 +30,5 @@ git diff commit1 commit2
 git branch
 git branch NAME
 git checkout NAME
+#branches for collaboration
+git log --graph --oneline branch1 branch2
