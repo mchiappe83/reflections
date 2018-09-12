@@ -32,3 +32,4 @@ git branch NAME
 git checkout NAME
 #branches for collaboration
 git log --graph --oneline branch1 branch2
+git show #see changes versus parent
