@@ -2,6 +2,7 @@ Main topics on AI with AWS Solutions Architects
 
 * Which algorithms fit well for recommendation engines?
 * Which differences in feature engineering can be indentified between deep learning and traditional ml?
+https://www.quora.com/Does-deep-learning-reduce-the-importance-of-feature-engineering
 * Which overfitting techniques can be used in deep learning?
 * How does a docker work over the hoods?
 * Differences between AI logic and deep learning
