@@ -1,0 +1,10 @@
+This is a TO-DO list with the projects that are of my interest for 2019:
+
+AI:
+* Speech recognizer: Build a deep neural network that functions as part of an end-to-end automatic speech recognition (ASR) pipeline. The model will convert raw audio into feature representations, which will then turn them into transcribed text.
+* Facial Keypoint Detection: Use image processing techniques and deep learning to recognize faces and facial keypoints, such as the location of the eyes and mouth on a face.
+* Automatic Image Captioning: Combine CNN and RNN knowledge to build a network that automatically produces captions, given an input image.
+* Landmark Detection & Tracking: Use sensor data to localize a robot and build a map of the environment with SLAM.
+
+AI for Trading:
+
