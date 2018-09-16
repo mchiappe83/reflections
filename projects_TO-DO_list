@@ -17,4 +17,12 @@ AI for Trading:
 * Combine Signals for Enhanced Alpha: Create a model for S&P 500 and its constituent stocks by selecting a model for a large data set which includes market data, fundamental data and alternative data. You will validate your model to ensure there is no overfitting. You will rank and select stocks to construct a long/short portfolio based on the prediction results.
 
 Blockchain Developer:ND1309
-* 
+* Managing your Blockchain Identity: generate a private-public key pair and learn how to use it to securely authenticate your identity for the
+transactions you post.
+* Creating Your Own Private Blockchain: Fundamentals of architecting a collection of data into a blockchain data model. You'll configure how each block stores data, learn how blocks are validated in order to add new ones to the chain, and create methods to validate the chain integrity.
+* Migrate Your Private Blockchain to Your API Web Service: Create a back end API web service and migrate your private blockchain to the web service you create. In the process
+* Build Your Own Private Blockchain Notary Service: build a blockchain notary service API that can be used to secure digital assets. building out the back end infrastructure with a pre-developed front end.
+* Build Your Own Notarization API with Ethereum Blockchain: build a smart contract, create a notary service, and deploy it on Ethereum blockchain.
+* Architecture: addition of a relational database to include storage of raw data, metadata, transactional information, and indexing.
+* Supply Chain & Data Auditing: modify your smart contract to support change of ownership, timestamp when this event occurs, and report auditing as required, as your notarized product moves through the supply chain
+* build your own public blockchain project.
