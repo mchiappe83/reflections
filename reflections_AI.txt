@@ -4,7 +4,7 @@ Main topics on AI with AWS Solutions Architects
 * Which differences in feature engineering can be indentified between deep learning and traditional ml?
 https://www.quora.com/Does-deep-learning-reduce-the-importance-of-feature-engineering
 * Which overfitting techniques can be used in deep learning?
-* How does a docker work over the hoods?
+* How does a docker work under the hoods?
 * Differences between AI logic and deep learning
 * What strategy can be used to detect wrong ads if we have text categories and descriptions?
 * Differences between hard and soft AI
